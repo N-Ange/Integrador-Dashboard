@@ -1,11 +1,8 @@
-<<<<<<< HEAD
+
 # Dashboard Call Center Anonymous Bank
 
-<<<<<<< HEAD
+
 <image src="CallCenter.jpg">
-=======
-https://raw.githubusercontent.com/leoviscay/Integradores-Henry/main/CallCenter.heic
->>>>>>> 131be179a589e071e8d6fbeea1a5077282371ba9
 
 Este dashboard muestra, a través de Power BI, las operaciones del Call Center de Anonymous Bank en el año 1999.
 Con tal fin, se utilizó el Dataset proporcionado por Henry dentro del bootcamp de Data Science y que formó parte de la serie de proyectos integradores del módulo Data Analytics. El mismo consta de 444.448 filas y 18 columnas.
@@ -30,6 +27,3 @@ Preguntas
 ¿Hay clientes recurrentes en el uso del servicio?
 ¿Cuáles son los tipos de servicio más recurrentes?
 ¿Podemos estimar la dotación necesaria para cumplir con una calidad de servicio determinada? Ejemplo: si quiero que mi tiempo promedio de espera sea menor a 60 segundos?
-=======
-# Integrador-Dashboard
->>>>>>> ae0789e4bef177c058dfbb08f9c34e7e35cbb591
