@@ -17,7 +17,7 @@ Para ello, se propone que definamos los KPIs adecuados para poder medir los obje
 * Mejorar la satisfacción del cliente, cumpliendo los SLA comprometidos.
 * Brindar una herramienta para la gestión y la toma de decisiones a los managers del Call Center.
 
-## Preguntas
+## Solicitud de Banco
 * ¿Cuál es el nivel de servicio para los clientes Prioritarios?
 * ¿Damos un mejor servicio que a los clientes normales?
 * ¿Qué volumen de llamadas atendemos?
