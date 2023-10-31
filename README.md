@@ -1,8 +1,8 @@
 
 # Dashboard Call Center Anonymous Bank
 
+<image src="Archivos\CallCenter.jpg">
 
-<image src="CallCenter.jpg">
 
 Este dashboard muestra, a través de Power BI, las operaciones del Call Center de Anonymous Bank en el año 1999.
 Con tal fin, se utilizó el Dataset proporcionado por Henry dentro del bootcamp de Data Science y que formó parte de la serie de proyectos integradores del módulo Data Analytics. El mismo consta de 444.448 filas y 18 columnas.
