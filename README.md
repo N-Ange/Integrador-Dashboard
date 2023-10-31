@@ -18,11 +18,11 @@ Para ello, se propone que definamos los KPIs adecuados para poder medir los obje
 * Brindar una herramienta para la gestión y la toma de decisiones a los managers del Call Center.
 
 ## Preguntas
-¿Cuál es el nivel de servicio para los clientes Prioritarios?
-¿Damos un mejor servicio que a los clientes normales?
-¿Qué volumen de llamadas atendemos?
-¿Cuáles son los cuellos de botella? ¿En qué días? ¿En qué bandas horarias?
-¿Cómo es la eficiencia y productividad de nuestros agentes?
-¿Hay clientes recurrentes en el uso del servicio?
-¿Cuáles son los tipos de servicio más recurrentes?
-¿Podemos estimar la dotación necesaria para cumplir con una calidad de servicio determinada? Ejemplo: si quiero que mi tiempo promedio de espera sea menor a 60 segundos?
+* ¿Cuál es el nivel de servicio para los clientes Prioritarios?
+* ¿Damos un mejor servicio que a los clientes normales?
+* ¿Qué volumen de llamadas atendemos?
+* ¿Cuáles son los cuellos de botella? ¿En qué días? ¿En qué bandas horarias?
+* ¿Cómo es la eficiencia y productividad de nuestros agentes?
+* ¿Hay clientes recurrentes en el uso del servicio?
+* ¿Cuáles son los tipos de servicio más recurrentes?
+* ¿Podemos estimar la dotación necesaria para cumplir con una calidad de servicio determinada? Ejemplo: si quiero que mi tiempo promedio de espera sea menor a 60 segundos?
