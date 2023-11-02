@@ -27,6 +27,7 @@ Para ello, se propone que definamos los KPIs adecuados para poder medir los obje
 * ¿Cuáles son los tipos de servicio más recurrentes?
 * ¿Podemos estimar la dotación necesaria para cumplir con una calidad de servicio determinada? Ejemplo: si quiero que mi tiempo promedio de espera sea menor a 60 segundos?
 
+
 ## Visión Estática del Dashboard
 
 ### Portada
@@ -57,3 +58,4 @@ Identificamos, los cuello de Botella, y permite recorrer el historial de las lla
 
 
 <image src="Archivos\Cantidad_Llamadas.jpeg">
+
