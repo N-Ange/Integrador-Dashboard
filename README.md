@@ -46,7 +46,7 @@ En esta vista elegimos la posibilidad de filtrar las llamadas, tanto por Priorid
 
 ### Eficacia y Productividad
 
-En este caso, accedimos a información más específica que nos permiten los datos, y rankeamos a aquellos Clientes con mayor recurrencia, a vuestros Agentes con mayor productividad en cuanto a cantidad de llamadas atendidas, y la eficacia de los mismos respecto al tiempo promedio de resolucíon del Servicio.
+En este caso, accedimos a información más específica que nos permiten los datos, y rankeamos a aquellos Clientes con mayor recurrencia, a los Agentes con mayor productividad en cuanto a cantidad de llamadas atendidas, y la eficacia de los mismos respecto al tiempo promedio de resolucíon del Servicio.
 
 <image src="Archivos\Eficacia_Productividad.jpeg">
 
@@ -54,7 +54,7 @@ En este caso, accedimos a información más específica que nos permiten los dat
 ### Llamadas Recibidas
 
 Este análisis resulta orientado a la proyección del Servicio del Call Center.
-Identificamos, los cuello de Botella, y permite recorrer el historial de las llamadas.
+Identificamos los cuello de Botella, y además, permite recorrer el historial de las llamadas.
 
 
 <image src="Archivos\Cantidad_Llamadas.jpeg">
